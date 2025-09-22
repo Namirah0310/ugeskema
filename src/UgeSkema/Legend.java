@@ -28,6 +28,11 @@ public class Legend {
         this.farve = farve;
     }
 
+    @Override
+    public void toString() {
+        System.out.println(navn +" " + farve);
+    }
+
 
 
 

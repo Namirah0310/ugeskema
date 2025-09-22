@@ -12,6 +12,8 @@ public class KalenderTest {
         Legend l3 = new Legend("Johan", "orange");
         Legend l4 = new Legend("David", "lilla");
 
+        System.out.println()
+
 
 
 
