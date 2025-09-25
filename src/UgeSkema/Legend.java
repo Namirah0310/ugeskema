@@ -29,8 +29,8 @@ public class Legend {
     }
 
     @Override
-    public void toString() {
-        System.out.println(navn +" " + farve);
+    public String toString() {
+        return navn + " " + farve;
     }
 
 
