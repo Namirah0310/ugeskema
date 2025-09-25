@@ -1,8 +1,8 @@
 package UgeSkema;
 
 public enum UgeDage {
-    Mandag,
-    Tirsdag,
+    Mandag  ,
+    Tirsdag    ,
     Onsdag,
     Torsdag,
     Fredag,
